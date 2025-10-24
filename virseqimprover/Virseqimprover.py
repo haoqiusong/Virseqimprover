@@ -6,7 +6,7 @@ import datetime
 
 # Required inputs
 read1 = ""
-read2 = ""
+read2 = "" # Automatically transfer to single-end reads if not specified.
 outputDir = ""
 scaffold = ""
 
