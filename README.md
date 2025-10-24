@@ -92,3 +92,8 @@ ln -s libcrypto.so.1.1 libcrypto.so.1.0.0
 ```
 
 3. In case you do not have the permission to run the shell file, use command ```chmod +x ***.sh```.
+
+# Citation
+
+If you use Virseqimprover in your research, please cite the following paper:
+Song H, Tithi SS, Brown C, Aylward FO, Jensen R, Zhang L. 2025. Virseqimprover: an integrated pipeline for viral contig error correction, extension, and annotation. PeerJ 13:e18515 https://doi.org/10.7717/peerj.18515.
